@@ -1,0 +1,12 @@
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.deps.json
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.dll
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\bin\Debug\net6.0\Stocks.Core.pdb
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.AssemblyReference.cache
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfoInputs.cache
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.AssemblyInfo.cs
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.dll
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\refint\Stocks.Core.dll
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\Stocks.Core.pdb
+C:\Users\Jil\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\Assignment Solutions\22. Section 24 - Clean Architecture - Stocks App\Stocks.Core\obj\Debug\net6.0\ref\Stocks.Core.dll
